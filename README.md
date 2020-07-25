@@ -6,4 +6,4 @@ This is to test application for Shiny. The main purpose of this example is to il
 library(shiny)
 
 # Easiest way is to use runGitHub
-runGitHub("shiny_test", "ztvaskal")
+shiny::runGitHub("shiny_test", "ztvaskal")
